@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makcimerrr" alt="makcimerrr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/fn_vayne" target="blank"><img src="https://img.shields.io/twitter/follow/fn_vayne?logo=twitter&style=for-the-badge" alt="fn_vayne" /></a> </p>
-
 - 🌱 I’m currently learning **Frameworks, courses etc..**
 
 - 👨‍💻 All of my projects are available at **SOON** => _*IN PROGRESS*_ [https://portfolio-git-main-maxime-dubois-projects.vercel.app/](https://portfolio-git-main-maxime-dubois-projects.vercel.app/) 
