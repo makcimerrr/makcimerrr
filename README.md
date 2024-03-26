@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **maxim3pro@proton.me**
 
-- 📄 Know about my experiences [https://zone01normandie.org/intra/rouen/profile?event=106](https://zone01normandie.org/intra/rouen/profile?event=106)
+- 📄 Know about my experiences [https://zone01rouennormandie.org/](https://zone01rouennormandie.org/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
