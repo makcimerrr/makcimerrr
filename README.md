@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc..**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-git-main-maxime-dubois-projects.vercel.app/](https://portfolio-git-main-maxime-dubois-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at **SOON** _*IN PROGRESS*_ [https://portfolio-git-main-maxime-dubois-projects.vercel.app/](https://portfolio-git-main-maxime-dubois-projects.vercel.app/) 
 
 - 💬 Ask me about **c, react, golang, ruby, js, sqlite, html/css,**
 
