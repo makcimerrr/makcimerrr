@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frameworks, courses etc..**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-drab-omega-56.vercel.app/](https://portfolio-drab-omega-56.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-git-main-maxime-dubois-projects.vercel.app/](https://portfolio-git-main-maxime-dubois-projects.vercel.app/)
 
 - 💬 Ask me about **c, react, golang, ruby, js, sqlite, html/css,**
 
@@ -19,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fn_vayne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fn_vayne" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/maxime dubois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime dubois" height="30" width="40" /></a>
 <a href="https://fb.com/maxime dubois" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="maxime dubois" height="30" width="40" /></a>
 <a href="https://instagram.com/fn_vayne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fn_vayne" height="30" width="40" /></a>
