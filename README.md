@@ -1,6 +1,5 @@
-<h2 align="left">Hi 👋! My name is Maxime Dubois and I'm an Aspiring FullStack Developer from, Zone01 Rouen Normandie</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=makcimerrr&label=Profile%20views&color=0e75b6&style=flat" alt="makcimerrr" /> </p>
-
+<h2 align="left">Hi 👋! My name is Maxime Dubois and I'm an Aspiring FullStack Developer from, Zone01 Rouen Normandie</h2>
 
 ###
 
@@ -72,5 +71,7 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/makcimerrr/makcimerrr/output/snake.svg" alt="Snake animation" />
 
 ###
