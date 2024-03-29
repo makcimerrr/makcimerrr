@@ -73,6 +73,4 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/makcimerrr/makcimerrr/blob/output/github-contribution-grid-snake.svg)
-
 ###
