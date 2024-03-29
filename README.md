@@ -3,6 +3,22 @@
 
 ###
 
+- 🔭 I’m currently working on my [Portfolio](https://github.com/makcimerrr/Portfolio)
+
+- 🌱 I’m currently learning **React/Rust**
+
+- 👨‍💻 All of my projects are available at [https://github.com/makcimerrr/Portfolio](https://github.com/makcimerrr/Portfolio)
+
+- 💬 Ask me about **golang, javascript**
+
+- 📫 How to reach me **maxim3pro@proton.me**
+
+- 📄 Know about my experiences [https://zone01normandie.org/](https://zone01normandie.org/)
+
+- ⚡ Fun fact **I'm a football player**
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=makcimerrr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=makcimerrr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
