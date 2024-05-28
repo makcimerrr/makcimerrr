@@ -16,6 +16,10 @@
 - 📄 Know about my experiences [https://zone01normandie.org/](https://zone01normandie.org/)
 
 - ⚡ Fun fact **I'm a football player**
+  
+###
+
+<img align="right" height="150" src="https://imgs.search.brave.com/fjVsQRgBhkaF-fT_7jv1vWQcncAjF2wqr-e6Hf0GmfM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dHV4Ym9hcmQuY29t/L3Bob3Rvcy8yMDE0/LzA1L3ZpZS1kZXYt/d2ViLWdpZi0xNy5n/aWY.gif"  />
 
 ###
 
@@ -23,10 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=makcimerrr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=makcimerrr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://imgs.search.brave.com/fjVsQRgBhkaF-fT_7jv1vWQcncAjF2wqr-e6Hf0GmfM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/dHV4Ym9hcmQuY29t/L3Bob3Rvcy8yMDE0/LzA1L3ZpZS1kZXYt/d2ViLWdpZi0xNy5n/aWY.gif"  />
 
 ###
 
