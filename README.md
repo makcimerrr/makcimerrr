@@ -34,12 +34,10 @@
 
 -->
 
-<img src="https://raw.githubusercontent.com/makcimerrr/makcimerrr/output/snake.svg" alt="Snake animation" />
-
-
-
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flask
 
 <hr>
+
+<img src="https://raw.githubusercontent.com/makcimerrr/makcimerrr/output/snake.svg" alt="Snake animation" />
