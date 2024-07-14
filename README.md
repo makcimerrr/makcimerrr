@@ -1,5 +1,7 @@
 ### Hi there 👋<h2> I'm Maxime Dubois</h2>
 
+<image href="https://krealabs.fr/images/MaximeDubois.jpg">
+
 <h3> 👨🏻•💻 About Me </h3>
 
 
