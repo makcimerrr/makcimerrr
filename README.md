@@ -1,6 +1,6 @@
 ### Hi there 👋<h2> I'm Maxime Dubois</h2>
 
-<div align="right">
+<div style="position: absolute; top: 0; right: 0;">
   <img src="https://krealabs.fr/images/MaximeDubois.jpg" alt="Me" style="width: 150px; height: 150px; border-radius: 50%;"/>
 </div>
 
