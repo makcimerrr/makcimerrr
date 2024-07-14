@@ -1,6 +1,9 @@
 ### Hi there 👋<h2> I'm Maxime Dubois</h2>
 
-<img src="https://krealabs.fr/images/MaximeDubois.jpg" alt="Me"/>
+<div align="right">
+  <img src="https://krealabs.fr/images/MaximeDubois.jpg" alt="Me" style="width: 150px; height: 150px; border-radius: 50%;"/>
+</div>
+
 
 <h3> 👨🏻•💻 About Me </h3>
 
