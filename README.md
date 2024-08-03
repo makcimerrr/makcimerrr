@@ -24,19 +24,17 @@
 
 - 🔧 &nbsp; Git | Markdown | Selenium 
 
-<!--
-
 - 🛢 &nbsp; MySQL | MongoDB
 
 - 🔧 &nbsp; Git | Markdown | Selenium | Tidyverse
 
-- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+- 🖥 &nbsp; Photoshop
 
--->
+- 🐳 &nbsp; Docker | Vercel
 
 <h3>🛠 To Learn</h3>
 
-- 🔧 &nbsp; AWS | Docker🐳 | Firebase | Flask
+- 🔧 &nbsp; AWS | Firebase | Flask
 
 <hr>
 
