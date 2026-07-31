@@ -9,6 +9,7 @@ I ship production software end to end, and I teach other people to do the same.
 
 ### Currently
 
+- **Founder** — [Stratt](https://stratt.fr), a B2B SaaS ERP for French intercommunal public bodies.
 - **Founder** — [Kréalabs](https://krealabs.fr), a web studio in Normandy. Custom platforms, client applications, WordPress.
 - **Pedagogical coach** — [Zone01 Rouen Normandie](https://zone01rouennormandie.org). Code reviews, curriculum design, internal tooling.
 - **Building** — *Ardoise*, a local-first invoicing tool for French freelancers.
@@ -18,7 +19,7 @@ I ship production software end to end, and I teach other people to do the same.
 | Project | What it is | Stack |
 | --- | --- | --- |
 | **Ardoise** | Local-first invoicing for French freelancers — works offline, syncs instantly, enforces sequential numbering server-side | Zero (Rocicorp) · Hono · Drizzle · PostgreSQL · React |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stratt-white.svg"><img src="assets/stratt-dark.svg" alt="" height="16" align="top"></picture> **Stratt** | Multi-tenant B2B ERP for French intercommunal public bodies — strict tenant isolation, threat-modelled against OWASP Top 10 and STRIDE | Next.js · TypeScript · PostgreSQL · Docker |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stratt-white.svg"><img src="assets/stratt-dark.svg" alt="" height="16" align="top"></picture> **Stratt** | Multi-tenant ERP in production for public-sector clients — strict tenant isolation, threat-modelled against OWASP Top 10 and STRIDE | Next.js · TypeScript · PostgreSQL · Docker |
 | **Axiora** | Platform for building LLM assistants grounded in private knowledge bases | Next.js · Ollama · RAG · Docker |
 | **NutriFit** | AI nutrition and training assistant with a retrieval layer over curated sources | Next.js · Prisma · PostgreSQL · Ollama |
 | **Social Connect** | Facebook-like social network — groups, events, follows, real-time chat | Go · WebSockets · SQLite · Docker |
